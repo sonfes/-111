@@ -1,0 +1,14 @@
+﻿<Window x:Class="ПервоеЗадание.Второе_окно"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ПервоеЗадание"
+        mc:Ignorable="d"
+        Title="Второе_окно" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/1d211f6d800f2fd42157ed7927bd0a0f.jpg"/>
+        </Grid.Background>
+    </Grid>
+</Window>

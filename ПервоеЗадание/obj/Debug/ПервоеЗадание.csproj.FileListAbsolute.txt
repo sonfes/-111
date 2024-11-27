@@ -1,0 +1,17 @@
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\bin\Debug\ПервоеЗадание.exe.config
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\bin\Debug\ПервоеЗадание.exe
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\bin\Debug\ПервоеЗадание.pdb
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.csproj.AssemblyReference.cache
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\MainWindow.g.cs
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\App.g.cs
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание_MarkupCompile.cache
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание_MarkupCompile.lref
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\MainWindow.baml
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.g.resources
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.Properties.Resources.resources
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.csproj.GenerateResource.cache
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.csproj.CoreCompileInputs.cache
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.exe
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\ПервоеЗадание.pdb
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\Второе окно.g.cs
+C:\Users\79035\source\repos\ПервоеЗадание\ПервоеЗадание\obj\Debug\Второе окно.baml
